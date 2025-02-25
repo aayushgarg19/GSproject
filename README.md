@@ -7,8 +7,8 @@ A basic Node.js project created from scratch.
 1. Make sure you have Node.js installed
 2. Clone the repository:
    ```bash
-   git clone https://github.com/aayushgarg19/windsurf-project.git
-   cd windsurf-project
+   git clone https://github.com/aayushgarg19/GSproject.git
+   cd GSproject
    ```
 3. Install dependencies:
    ```bash
